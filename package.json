@@ -1,5 +1,5 @@
 {
-  "name": "@lukebennett88/eslint-config-lukebennett",
+  "name": "eslint-config-lukebennett",
   "version": "0.0.1",
   "description": "ESLint and Prettier Config from Luke Bennett",
   "keywords": [
