@@ -11,7 +11,7 @@
     "prettier"
   ],
   "main": "index.js",
-  "repository": "git@github.com:lukebennett88/eslint-config-wesbos.git",
+  "repository": "git@github.com:lukebennett88/eslint-config-lukebennett.git",
   "author": "Luke Bennett <hello@lukebennett.com.au>",
   "license": "MIT",
   "peerDependencies": {
