@@ -41,10 +41,6 @@ I also install globally so that any project or rogue JS file I write will have l
    module.exports = {
      root: true,
      extends: ["lukebennett"],
-     rules: {
-       "arrow-body-style": 0,
-       "react/no-danger": 0,
-     },
    };
    ```
 
